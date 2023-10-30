@@ -26,12 +26,6 @@ const songs = [
         artist: 'flowerboii, Ufo361',
     },
     {
-        path: 'assets/mp3/3joji.mp3',
-        displayName: '1AM FREESTYLE',
-        cover: 'assets/pngs/3joji.png',
-        artist: 'Joji',
-    },
-    {
         path: 'assets/mp3/4xxx.mp3',
         displayName: 'Jocelyn Flores',
         cover: 'assets/pngs/4xxx.png',
@@ -42,18 +36,6 @@ const songs = [
         displayName: 'bando - sped up + reverb',
         cover: 'assets/pngs/5bnd.png',
         artist: 'bbygirl',
-    },
-    {
-        path: 'assets/mp3/6simf.mp3',
-        displayName: 'SPIT IN MY FACE!',
-        cover: 'assets/pngs/6simf.png',
-        artist: 'ThxSoMch',
-    },
-    {
-        path: 'assets/mp3/7fkm.mp3',
-        displayName: 'fukumean',
-        cover: 'assets/pngs/7fkm.png',
-        artist: 'Gunna',
     },
 ];
 
