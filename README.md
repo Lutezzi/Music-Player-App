@@ -1,2 +1,1 @@
-# Music-Player-App
- music player with html, css, js
+![image](https://github.com/Lutezzi/Music-Player-App/assets/68704550/c3fb545a-ba5a-4308-8489-4021e540bca6)
